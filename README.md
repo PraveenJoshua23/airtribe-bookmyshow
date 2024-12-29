@@ -68,7 +68,7 @@ WHERE
 1. Install MySQL and MySQL Workbench
 2. Clone this repository
 3. Open MySQL Workbench
-4. Execute the SQL script (`bookmyshow_project.sql`)
+4. Execute the SQL script (`airtribe_project.sql`)
 5. Verify table creation and sample data
 
 
